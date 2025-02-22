@@ -1,0 +1,7 @@
+filters/*.py
+*.so
+__pycache__/
+build/
+install/on_rpi/bluez/
+devices_config.json
+.DS_Store
