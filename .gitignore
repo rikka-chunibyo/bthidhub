@@ -5,3 +5,7 @@ build/
 install/on_rpi/bluez/
 devices_config.json
 .DS_Store
+stubs/.DS_Store
+install/.DS_Store
+stubs/.DS_Store
+install/.DS_Store
