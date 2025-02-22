@@ -64,7 +64,6 @@ To upgrade to the latest release without reinstalling from scratch, you'll need 
 ```
 cd $HOME/bthidhub/
 git pull
-sudo pip3 install -r requirements.txt --upgrade
 mypyc
 sudo systemctl restart remapper
 ```
