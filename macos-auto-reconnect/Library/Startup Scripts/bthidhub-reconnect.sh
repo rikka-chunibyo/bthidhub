@@ -1,5 +1,6 @@
 #!/bin/bash
 
+BLUEUTIL_ALLOW_ROOT=1
 DEVICE_MAC="e4-5f-01-2a-fb-23"
 DELAY=5
 
