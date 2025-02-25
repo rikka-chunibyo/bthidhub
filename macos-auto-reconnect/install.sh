@@ -1,5 +1,5 @@
 sudo curl "https://raw.githubusercontent.com/rikka-chunibyo/bthidhub/refs/heads/main/macos-auto-reconnect/Library/LaunchDaemons/com.rikka.bthidhub-reconnect.plist" -o "/Library/LaunchDaemons/com.rikka.bthidhub-reconnect.plist"
-sudo curl "https://raw.githubusercontent.com/rikka-chunibyo/bthidhub/refs/heads/main/macos-auto-reconnect/Library/Startup%20Scripts/bthidhud-reconnect.sh" -o "/Library/Startup Scripts/bthidhub-reconnect.sh"
+sudo curl "https://raw.githubusercontent.com/rikka-chunibyo/bthidhub/refs/heads/main/macos-auto-reconnect/Library/Startup%20Scripts/bthidhub-reconnect.sh" -o "/Library/Startup Scripts/bthidhub-reconnect.sh"
 
 sudo chown root:wheel "/Library/LaunchDaemons/com.rikka.bthidhub-reconnect.plist"
 sudo chmod 644 "/Library/LaunchDaemons/com.rikka.bthidhub-reconnect.plist"
